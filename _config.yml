@@ -5,3 +5,7 @@ description: >-
 author: Caleb Froese
 email: contact@calebfroese.com
 theme: fazed
+gems:
+  - jekyll-bootstrap-sass
+sass:
+  sass_dir: _sass
